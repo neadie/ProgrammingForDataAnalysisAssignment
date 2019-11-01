@@ -21,7 +21,7 @@ Project Plan Check List
  - np.random.uniform **DONE**
  - np.random.normal **DONE**
  - np.random.poission **DONE**
- - np.random.triangular **TODO**
+ - np.random.bionominal **TODO**
  - np.random.exponential**TODO**
 4. Explain the use of seeds in generating psedorandom number - **TODO**
 5. Update Project Plan as research progresses -**IN PROGRESS**
