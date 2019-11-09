@@ -23,7 +23,7 @@ Project Plan Check List
  - np.random.poission **DONE**
  - np.random.bionominal **DONE**
  - np.random.exponential**TODO**
-4. Explain the use of seeds in generating psedorandom number - **TODO**
+4. Explain the use of seeds in generating psedorandom number - **DONE**
 5. Update Project Plan as research progresses -**IN PROGRESS**
 
  Consider any new information learned as part of the project plan
