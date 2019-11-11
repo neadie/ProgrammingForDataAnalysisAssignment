@@ -10,27 +10,26 @@ This git repository contains files for the practical assignment in the module Pr
 
 The Jupyter Notebook for this practical assignement is named "ProgrammingForDataAnalysis.ipynb". If you are opening the file in in terminal navigate to directory assigment is in and run command jupyter lab
 
-Project Plan Check List
-1. Explain the overall purpose of the package complete **DONE**
+Project Plan 
+1. Explain the overall purpose of the package 
  Complete
-2. Explain the use of the "Simple random data" and "Permutations" functions - **DONE**
+2. Explain the use of the "Simple random data" and "Permutations" functions - 
 
- - Explain the use of the "Simple random data" functions **DONE**
- - Explain the use of the "Permutations" functions - **DONE**
+ - Explain the use of the "Simple random data" functions 
+ - Explain the use of the "Permutations" functions - 
 3. Explain the use and purpose of at least five "Distributions" functions in progress
- - np.random.uniform **DONE**
- - np.random.normal **DONE**
- - np.random.poission **DONE**
- - np.random.bionominal **DONE**
- - np.random.exponential**TODO**
-4. Explain the use of seeds in generating psedorandom number - **DONE**
-5. Update Project Plan as research progresses -**IN PROGRESS**
+ - np.random.uniform 
+ - np.random.normal 
+ - np.random.poission 
+ - np.random.bionominal 
+ - np.random.gamma
+4. Explain the use of seeds in generating psedorandom number - 
+5. Update Project Plan as research progresses -*
 
  Consider any new information learned as part of the project plan
-6. How to run the Python code and what it does
-
-7. References IN PROGRESS
 
 
+7. References 
 
-8.  Review all assignment items for any errors and improvements
+
+
