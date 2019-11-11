@@ -1,11 +1,11 @@
 # Programming For DataAnalysis Assignment
 
-Programming for Data Analysis
-Semester 2 Assignment 2019
-Student: Sinead Frawley
-Student ID: G00376349
-numpy.random Package in Python
-Notes
+
+## Semester 2 Assignment 2019
+## Student: Sinead Frawley
+## Student ID: G00376349
+## numpy.random Package in Python
+## Notes
 This git repository contains files for the practical assignment in the module Programming for Data Analysis.
 
 The Jupyter Notebook for this practical assignement is named "ProgrammingForDataAnalysis.ipynb". If you are opening the file in in terminal navigate to directory assigment is in and run command jupyter lab
