@@ -8,7 +8,11 @@
 ## Notes
 This git repository contains files for the practical assignment in the module Programming for Data Analysis.
 
-The Jupyter Notebook for this practical assignement is named "ProgrammingForDataAnalysis.ipynb". If you are opening the file in in terminal navigate to directory assigment is in and run command jupyter lab
+The Jupyter Notebook for this practical assignement is named "ProgrammingForDataAnalysis.ipynb". If you are opening the file in in terminal navigate to directory assigment is in and run command 
+
+jupyter lab
+
+Once noteook is running up in the browser Click on the kernal menu bar and dropdown select option Restart Kernal and run all cells 
 
 Project Plan 
 1. Explain the overall purpose of the package 
